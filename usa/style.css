@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    gap: 20px;
+    
+}
+.first {
+    width: 200px;
+    height: 200px;
+    background-color: dodgerblue;
+    border: 1px soolid black;
+}
